@@ -1,4 +1,3 @@
-<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/a195b6fa-0158-4c51-a154-8de2723d5d4d" />
 # This folder contains all source code used in the manuscript
 
 ## Environment Setup
