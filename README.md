@@ -2,7 +2,7 @@
 
 
 - TabICL accurately predicts normalized equilibrium scour around spur dikes.
-- TabICL outperforms empirical equations and conventional machine-learning models.
+- TabICL outperforms empirical equations and advanced machine-learning models.
 - SHAP reveals dominant predictors and nonlinear scour relationships.
 - Probabilistic predictions quantify condition-dependent scour uncertainty.
 - Exceedance probabilities enable uncertainty-aware, risk-informed scour assessment.
